@@ -6,5 +6,4 @@ st.title('Subtraction of 2 given numbers')
 
 x = st.number_input('x')
 y = st.number_input('y')
-st.write('Subtraction is', x-y)
-
+st.subheader('Subtraction is', x-y)
